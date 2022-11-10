@@ -1,0 +1,64 @@
+.carddiv{
+    height: 700px;
+    width: 100%;
+    display: flex;
+    border: 1px solid rgb(248, 247, 247);
+}
+
+.carddivbox{
+    height: 620px;
+    width: 25%;
+    background-color: rgb(238, 238, 170);
+    border: 1px solid rgb(216, 212, 212);
+}
+.cardimg{
+    height: 80%;
+    width: 100%;
+}
+.lmorebtn{
+    background-color: white;
+    margin-left: 40%;
+    height: 40px;
+    width: 30%;
+    border-radius: 20px;
+}
+.vidsec{
+    height: 750px;
+    width: 100%;
+    border: 1px solid rgb(235, 224, 224);
+    background-color: rgb(236, 230, 171);
+}
+.vidsec1{
+    height: 90%;
+    width: 80%;
+    border: 1px solid rgb(215, 209, 209);
+    margin: auto;
+    margin-top: 40px;
+}
+.vidimg{
+    height: 100%;
+    width: 100%;
+}
+.vidh1{
+    margin: auto;
+    margin-left: 30%;
+    color: grey;
+}
+.longcard{
+    margin-top: 40px;
+    display: flex;
+    height: 700px;
+    width: 100%;
+    border: 1px solid rgb(251, 248, 248);
+}
+.longcardcard{
+    margin-left: 90px;
+    height: 700px;
+    width: 50%;
+    border: 1px solid rgb(242, 237, 237);
+}
+.longcardcardimg{
+    height: 100%;
+    width: 90%;
+    margin: auto;
+}
