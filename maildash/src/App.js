@@ -6,6 +6,9 @@ import './Components/CardSection.css'
 import  "./Components/TopSection.css";
 import TopSection from "./Components/TopSection";
 import CardSection from "./Components/CardSection";
+import Footer from './Components/Footer'
+import Testimonial from './Components/Testimonial'
+import Price from './Components/Price'
 
 
 function App() {
@@ -14,7 +17,11 @@ function App() {
 
       <Navbar/>
       <TopSection/>
+      <Price/>
       <CardSection/>
+      <Testimonial/>
+      <Footer/>
+      
       
       
     </div>

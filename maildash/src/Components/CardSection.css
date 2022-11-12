@@ -8,7 +8,7 @@
 .carddivbox{
     height: 620px;
     width: 25%;
-    background-color: rgb(238, 238, 170);
+    background-color: rgb(245, 245, 238);
     border: 1px solid rgb(216, 212, 212);
 }
 .cardimg{
@@ -26,12 +26,12 @@
     height: 750px;
     width: 100%;
     border: 1px solid rgb(235, 224, 224);
-    background-color: rgb(236, 230, 171);
+    background-color: rgb(244, 244, 240);
 }
 .vidsec1{
     height: 90%;
     width: 80%;
-    border: 1px solid rgb(215, 209, 209);
+    border: 1px solid rgb(247, 243, 243);
     margin: auto;
     margin-top: 40px;
 }
