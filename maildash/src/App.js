@@ -9,6 +9,8 @@ import CardSection from "./Components/CardSection";
 import Footer from './Components/Footer'
 import Testimonial from './Components/Testimonial'
 import Price from './Components/Price'
+import Login from './Components/Login'
+import Touch from './Components/Touch'
 
 
 function App() {
@@ -21,6 +23,8 @@ function App() {
       <CardSection/>
       <Testimonial/>
       <Footer/>
+      <Login/>
+      <Touch/>
       
       
       
